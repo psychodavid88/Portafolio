@@ -96,6 +96,17 @@ header a img {
     height: 150%;
 }
 
+.greeting {
+
+  display: flex;
+  color:cadetblue;
+  justify-content: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: brown;
+}
+
+
+
 /* Hasta aca va el cuerpo 1 y 2 */
 
 .container-card{
